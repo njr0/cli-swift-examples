@@ -1,6 +1,7 @@
 //
-// Method 1 for getting a URL in Swift
+// get-synchronous.swift  [Swift 4.1, Xcode 9.3.1, 2018-06-09]
 //
+// Method 1 for getting a URL in Swift
 
 // Simple, Synchronous URL get.
 //
